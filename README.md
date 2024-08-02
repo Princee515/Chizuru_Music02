@@ -1,4 +1,10 @@
 <h2 align="center">
+codes:
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=github.com/Princee515 =&branch=main&name=service )@Chizuru_Mizuhara02_bot
+
+
+    
     ──「 LB Music 」──
 </h2>
 
